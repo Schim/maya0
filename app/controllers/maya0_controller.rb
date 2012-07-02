@@ -1,4 +1,4 @@
 class Maya0Controller < ApplicationController
-	def hello
+	def maya0
 	end
 end
